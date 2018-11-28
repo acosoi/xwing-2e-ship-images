@@ -25,8 +25,8 @@ The status of each ship is color-coded below:
 #### Galactic Empire Expansions
 
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE/ln Fighter - `galactic-empire\tie-ln-fighter.png`
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Advanced
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE/sk Striker
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Advanced x1 - `galactic-empire\tie-advanced-x1.png`
+* ![#ff0000](https://placehold.it/15/00ff00/000000?text=+) TIE/sk Striker - `galactic-empire\tie-sk-striker.png`
 
 #### Galactic Republic Expansions
 
