@@ -17,3 +17,46 @@ The status of each ship is color-coded below:
 
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) T-65 X-Wing - `rebel-alliance\t-65-x-wing.png`
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE/ln Fighter - `galactic-empire\tie-ln-fighter.png`
+
+#### First Order Expansions
+
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE/fo Fighter - `first-order\tie-fo-fighter.png`
+
+#### Galactic Empire Expansions
+
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE/ln Fighter - `galactic-empire\tie-ln-fighter.png`
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Advanced
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE/sk Striker
+
+#### Galactic Republic Expansions
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Delta-7 Aethersprite
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Delta-7 Aethersprite (Obi-Wan Kenobi color scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) V-19 Torrent Starfighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) ARC-170 Starfighter
+
+#### Rebel Alliance Expansions
+
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) T-65 X-Wing - `rebel-alliance\t-65-x-wing.png`
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) BTL-A4 Y-Wing
+
+#### Resistance Expansions
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) RZ-2 A-Wing
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) T-70 X-Wing
+
+#### Scum and Villainy Expansions
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Customized YT-1300 Light Freighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Escape Craft
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Firespray-class Patrol Craft
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Fang Fighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Modified TIE/ln Fighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Z-95-AF4 Headhunter
+
+#### Separatist Alliance Expansions
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Belbullab-22 Starfighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Vulture-class Droid Fighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Vulture-class Droid Fighter (General Grievous color scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Sith Infiltrator
